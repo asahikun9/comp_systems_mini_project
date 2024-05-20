@@ -16,8 +16,8 @@ int val = 1;
 const char* ntpServer = "pool.ntp.org";
 
 // WiFi Credentials 
-const char* ssid = "Zi Xu’s iPhone";
-const char* password = "chipichipichapachapa";
+const char* ssid = "";
+const char* password = "";
 
 // Firebase server
 String firebase_server = "https://miniproject-fc16f-default-rtdb.firebaseio.com//Trial2.json";
